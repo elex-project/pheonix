@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "com.elex-project"
-version = "1.1.0"
+version = "1.1.1"
 description = "Korean Lunisolar Calendar"
 
 repositories {
